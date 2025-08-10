@@ -20,8 +20,7 @@
 
 <p align="left" style="margin-top: 30px;">
   <a href="https://github.com/zahira-zakki?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zahira-zakki?color=55960c&style=for-the-badge&labelColor=555555&logo=star" />
-  </a>
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zahira-zakki?color=55960c&style=for-the-badge&labelColor=555555&logo=star"/></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=zahira-zakki&style=for-the-badge&color=orange" alt="Profile Views" />
   &nbsp;
